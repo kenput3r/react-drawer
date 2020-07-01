@@ -1,3 +1,11 @@
+# Usage
+
+Copy the contents of src/Drawer/ into your project.
+
+Styled Components is a dependency. Be sure to `npm install styled-components` or `yarn add styled-components` to your project.
+
+View src/App.js for example usage.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
